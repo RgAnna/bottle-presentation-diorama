@@ -1,6 +1,6 @@
 # Bottle Presentation Diorama (High Poly)
 
-![Project Preview](https://github.com/RgAnna/bottle-presentation-diorama/blob/main/bottle-presentation-diorama.png)
+![Project Preview](https://github.com/RgAnna/bottle-presentation-diorama/blob/main/bottle-presentation-diorama_01.png)
 
 ## Description
 
