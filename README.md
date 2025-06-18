@@ -30,7 +30,7 @@ This 3D scene represents a high poly diorama showcasing a bottle on a table in a
 [![Sketchfab](https://img.shields.io/badge/-Sketchfab-000000?style=flat&logo=sketchfab&logoColor=white)](https://sketchfab.com/RgAnna)
 
 
----
+___
 
 # Презентация Диорамы с Бутылочкой (High Poly)
 
