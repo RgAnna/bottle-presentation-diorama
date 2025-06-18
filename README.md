@@ -19,13 +19,7 @@ This 3D scene represents a high poly diorama showcasing a bottle on a table in a
 - Materials and textures fully customized inside Blender for easy adaptation and flexibility.  
 - Suitable for product showcase, marketing visuals, animations, and 3D presentations.
 
-## Usage
 
-The model is ready to be imported into any 3D software or game engine supporting Blender (.blend) or standard formats like FBX/OBJ.
-
-## Additional Information
-
-If you have any questions or need assistance with setup, feel free to contact!
 
 ## Контакты
 
@@ -57,13 +51,6 @@ If you have any questions or need assistance with setup, feel free to contact!
 - Материалы и текстуры полностью настроены внутри Blender для удобной адаптации и гибкости.  
 - Подходит для презентации товаров, маркетинговых визуализаций, анимаций и 3D-презентаций.
 
-## Использование
-
-Модель готова к импорту в любое 3D-программное обеспечение или игровые движки, поддерживающие Blender (.blend) или стандартные форматы FBX/OBJ.
-
-## Дополнительная информация
-
-Если у вас есть вопросы или нужна помощь с настройкой — обращайтесь!
 
 ## Контакты
 
